@@ -1,0 +1,2 @@
+python -m STAR_outliers --input fake_data.txt --pcutoff 0.993
+python -m STAR_outliers --input step0_all_2018_processed.txt --pcutoff 0.993

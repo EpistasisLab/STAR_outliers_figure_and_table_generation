@@ -1,0 +1,1 @@
+python -m STAR_outliers --input skewed_data.txt --pcutoff 0.993
